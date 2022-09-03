@@ -1,2 +1,2 @@
-# laravelInjection
-LaravelInjection provides a simple system design for free / Reducing the Controllers, Model loading time and creating interface, repository, engineControllers pattern, config, traits and helpers for making Application And APIs.
+# laravelInjection (version:1.0)
+LaravelInjection Provides a Simple System design Using Interface, Repository, EngineControllers. This Is Require For Better Code Injection. 
